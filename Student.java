@@ -1,11 +1,15 @@
-
 package lab1;
 
 public class Student {
-    public void display() {
-        System.out.println("Student Name: Zobia Khan");
-        System.out.println("Department: Software Engineering");
-        System.out.println("University: SSUET");
-        System.out.println("Lab: Introduction to GitHub");
+    String name = "Zobia Khan";
+    String department = "Software Engineering";
+    int semester = 5;
+    String university = "SSUET";
+
+public void displayInfo() {
+    System.out.println("Name: " + name);
+    System.out.println("Department: " + department);
+    System.out.println("Semester: " + semester);
+    System.out.println("University: " + university);
     }
 }
