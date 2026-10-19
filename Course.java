@@ -7,5 +7,6 @@ public class Course {
         System.out.println("Language: Java");
         System.out.println("Tool: Eclipse IDE");
         System.out.println("Platform: GitHub");
+        System.out.println("GitHub Lab Practice");
     }
 }
