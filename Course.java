@@ -8,5 +8,6 @@ public class Course {
         System.out.println("Tool: Eclipse IDE");
         System.out.println("Platform: GitHub");
         System.out.println("Status: Updated in V2");
+        System.out.println("GitHub Lab Practice");
     }
 }

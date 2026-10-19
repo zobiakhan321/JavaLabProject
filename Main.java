@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Learning GitHub");
         System.out.println("Software Construction Lab 1");
         System.out.println("Commit and Push Practice");
+        System.out.println("GitHub Lab Practice");
     }
 }
